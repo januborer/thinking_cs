@@ -25,10 +25,10 @@ copy-fonts = true
 # additional-css = ["custom.css", "custom2.css"]
 # additional-js = ["custom.js"]
 no-section-label = false
-git-repository-url = "https://github.com/januborer/eat"
+git-repository-url = "https://github.com/januborer/thinking_cs"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/januborer/eat/edit/main/{path}"
-site-url = "/eat/"
+edit-url-template = "https://github.com/januborer/thinking_cs/edit/main/{path}"
+site-url = "/thinking_cs/"
 # cname = "myproject.rs"
 # input-404 = "not-found.md"
 

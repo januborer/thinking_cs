@@ -35,7 +35,7 @@ cd book
 
 git init
 git branch -m essay-site
-git remote add origin git@github.com:januborer/essay.git
+git remote add origin git@github.com:januborer/thinking_cs.git
 
 current_branch=$(git branch --show-current)
 # Add changes to git.

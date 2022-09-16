@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Eat"
+description = "computer science,rust,Rust"
 
 [rust]
 edition = "2021"

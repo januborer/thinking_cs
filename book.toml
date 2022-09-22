@@ -3,7 +3,7 @@ authors = ["januborer"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Eat"
+title = "Computer Science"
 description = "computer science,rust,Rust"
 
 [rust]
